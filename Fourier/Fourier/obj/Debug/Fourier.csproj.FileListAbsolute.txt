@@ -1,0 +1,10 @@
+C:\Users\Morteza\Desktop\FFTLIBRARY\Fourier\Fourier\bin\Debug\Fourier.dll
+C:\Users\Morteza\Desktop\FFTLIBRARY\Fourier\Fourier\bin\Debug\Fourier.pdb
+C:\Users\Morteza\Desktop\FFTLIBRARY\Fourier\Fourier\obj\Debug\Fourier.dll
+C:\Users\Morteza\Desktop\FFTLIBRARY\Fourier\Fourier\obj\Debug\Fourier.pdb
+C:\Users\Morteza\Desktop\FFTLIBRARY\Fourier\Fourier\obj\Debug\Fourier.csprojResolveAssemblyReference.cache
+D:\Science\Computer\Visual Studio\C#\Fourier\Fourier\bin\Debug\Fourier.dll
+D:\Science\Computer\Visual Studio\C#\Fourier\Fourier\bin\Debug\Fourier.pdb
+D:\Science\Computer\Visual Studio\C#\Fourier\Fourier\obj\Debug\Fourier.csprojResolveAssemblyReference.cache
+D:\Science\Computer\Visual Studio\C#\Fourier\Fourier\obj\Debug\Fourier.dll
+D:\Science\Computer\Visual Studio\C#\Fourier\Fourier\obj\Debug\Fourier.pdb
